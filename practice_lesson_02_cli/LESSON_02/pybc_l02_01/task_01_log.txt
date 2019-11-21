@@ -1,0 +1,73 @@
+ 439  mkdir LESSON_02
+  440  ls
+  441  cd LESSON_02/
+  442  pwd
+  443  mkdir pybc_l02_01
+  444  cd pybc_l02_01/
+  445  mkdir practice_1
+  446  mkdir practice_2
+  447  mkdir practice_3
+  448  ls
+  449  cd practice_1
+  450  touch ex_01.txt
+  451  touch ex_02.txt
+  452  touch ex_03.txt
+  453  touch ex_04.txt
+  454  ls -a
+  455  touch script_01.py
+  456  touch script_02.py
+  457  echo Why didn’t the skeleton cross the road? Because he had no guts. > ex_01
+  458  ls
+  459  echo Why didn’t the skeleton cross the road? Because he had no guts. > ex_01.txt 
+  460  rm ex_01
+  461  ls
+  462  echo What did one nut say as he chased another nut?  I'm a cashew! > ex_02.txt
+
+
+  463  ls
+  464  echo What did one nut say as he chased another nut?  I'm a cashew/! > ex_02.txt
+
+
+
+  465  echo What did one nut say as he chased another nut?  I'm a cashew\! > ex_02.txt
+
+
+
+  466  open ex_02.txt 
+  467  open ex_01.txt 
+  468  ls
+  469  echo Chances are if you' ve seen one shopping center, you've seen a mall. > ex_02.txt 
+  470  echo How come the stadium got hot after the game? Because all of the fans left. > ex_03.txt 
+  471  echo What did one nut say as he chased another nut?  I\'m a cashew! > ex_04.txt 
+  472  open ex_04.txt 
+  473  cp ex_03.txt practice_2/
+  474  ../
+  475  cd ../
+  476  la
+  477  ls
+  478  cd practice_1
+  479  cp ex_03.txt ../practice_2
+  480  cp ex_04.txt ../practice_2
+  481  mv script_01.py ../practice_3/
+  482  mv script_02.py ../practice_3/
+  483  rm ex_03.txt 
+  484  rm ex_04.txt 
+  485  ls
+  486  ls -a
+  487  less ex_01.txt 
+  488  less ex_02.txt 
+  489  cat ../practice_2/ex_03.txt 
+  490  cat ../practice_2/ex_04.txt 
+  491  ../
+  492  cd ../
+  493  cd ../
+  494  ls
+  495  cd pybc_l02_01/
+  496  ды
+  497  ls
+  498  rmdir practice_1/
+  499  rm -rf practice_1/
+  500  ls
+  501  touch task_01_log.txt
+  502  ls
+  503  history 

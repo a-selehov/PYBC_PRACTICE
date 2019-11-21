@@ -1,0 +1,19 @@
+  561  distillery:[pybc_l02_01]: 
+  562  vimtutor
+  563  ls
+  564  cd ../
+  565  ls
+  566  mkdir pybc_l02_02
+  567  ls
+  568  cd pybc_l02_02/
+  569  nano
+  570  ls
+  571  rename y 
+  572  nano y
+  573  nano y
+  574  ls
+  575  rm y 
+  576  ls
+  577  open jokes.txt 
+  578  cat jokes.txt 
+  579  history 

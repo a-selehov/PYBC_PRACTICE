@@ -1,0 +1,41 @@
+ 586  mkdir pybc_l02_03
+  587  ls
+  588  cd pybc_l02_03
+  589  cp ../pybc_l02_01/practice_3/
+  590  ls
+  591  cp ../pybc_l02_01/practice_3/ /
+  592  cp ../pybc_l02_01/practice_3/ practice_3
+  593  ls
+  594  cp ../pybc_l02_01/practice_3/ /Users/distillery/Desktop/learn_cli/LESSON_02/pybc_l02_03/
+  595  ls
+  596  cp -RP ../pybc_l02_01/practice_3/ /
+  597  ls
+  598  cp -a ../pybc_l02_01/practice_3/ /:
+  599  ls
+  600  cp -R ../pybc_l02_01/practice_3/ 
+  601  ls
+  602  cp -R ../pybc_l02_01/practice_3/ /
+  603  cp -RP ../pybc_l02_01/practice_3/ /Users/distillery/Desktop/learn_cli/LESSON_02/pybc_l02_03/
+  604  ls
+  605  rm script_01.py 
+  606  rm script_02.py 
+  607  cp -R ../pybc_l02_01/practice_3/ /Users/distillery/Desktop/learn_cli/LESSON_02/pybc_l02_03/practice_3
+  608  ls
+  609  cd practice_3/
+  610  ls
+  611  nano script_01.py 
+  612  ls
+  613  python script_01.py 
+  614  python script_01.py 
+  615  python script_01.py 
+  616  python script_01.py 
+  617  python script_01.py 
+  618  ls
+  619  cat BQfaxsHBsrc.txt 
+  620  nano script_02.py 
+  621  python script_02.py 
+  622  python script_02.py 
+  623  python script_02.py 
+  624  ls -all
+  625  history 
+distillery:[practice_3]: touch task_03_log.txt
